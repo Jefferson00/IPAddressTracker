@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./github/preview-1.png)
-![](./github/preview-2.png)
+![](./.github/preview-1.png)
+![](./.github/preview-2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Deploy in Vercel](https://iptracker-lime.vercel.app/)
 
 ### Getting Started
 
