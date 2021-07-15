@@ -2,6 +2,8 @@
 
 This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+The challenge is to build out this IP Address Tracker app and get it looking as close to the design as possible. To get the IP Address locations, i'll be using the [IP Geolocation API by IPify](https://geo.ipify.org/). To generate the map, i'm using [LeafletJS](https://leafletjs.com/).
+
 ## Table of contents
 
 - [Overview](#overview)
